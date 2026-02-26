@@ -14,12 +14,15 @@ AI-powered system that simulates interviews, evaluates code, and analyzes explan
 - Resume-based questions
 
 ## Tech Stack
--Frontend-->
-  React / Next.js
-  JavaScript (ES6+)
-  Axios or Fetch API
-  Monaco Editor (@monaco-editor/react)
-  Browser Web Speech API (Voice-to-Text)
+- Frontend-->
+   React / Next.js
+   JavaScript (ES6+)
+   Axios or Fetch API
+   Monaco Editor (@monaco-editor/react)
+   Browser Web Speech API (Voice-to-Text)
+
+  - Backend-->
+     
 
 ## How to run
 Step 1: clone repo
